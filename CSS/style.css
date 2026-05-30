@@ -1,6 +1,6 @@
 @font-face {
     font-family: BerlinSansFB;
-    src: url("./Fuente/berlin-sans-fb-webfont/BRLNSR.woff");
+    src: url("/Fuente/berlin-sans-fb-webfont/BRLNSR.woff") format("woff");
 }
 
 body{
