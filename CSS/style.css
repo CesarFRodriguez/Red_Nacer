@@ -528,6 +528,7 @@ footer{
     padding-left: 15%;
     padding-right: 15%;
     flex-wrap: wrap;
+    line-height: 0.1;
 }
 .bloqueAlt:hover{
     background-color:#ffffde;
@@ -539,7 +540,7 @@ footer{
 }
 .contenido {
     width: 35%;
-    text-align: center;
+    text-align: left;
     padding-left: 1%;
     padding-right: 1%;
 }
