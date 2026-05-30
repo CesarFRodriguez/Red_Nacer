@@ -1,6 +1,6 @@
 @font-face {
     font-family: BerlinSansFB;
-    src: url("/Fuente/berlin-sans-fb-webfont/BRLNSR11.woff2") format("woff2");
+    src: url("https://github.com/CesarFRodriguez/Tipografias/blob/main/BRLNSR11.woff2") format("woff2");
 }
 
 body{
